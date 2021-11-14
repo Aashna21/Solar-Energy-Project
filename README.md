@@ -1,1 +1,1 @@
-# Solar-Energy-Project
+# solar_power
